@@ -1,0 +1,19 @@
+[32m[INFO] [2025-08-26  12:30:28.269] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:28.329] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:28.367] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:30:28.383] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:28.468] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:30:28.481] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:28.531] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:30:28.544] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:28.600] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:30:29.629] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:29.704] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:30:29.718] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:29.759] : 点击元素：('id', 'finish') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:30:29.775] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:29.781] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51[0m
+[32m[INFO] [2025-08-26  12:30:29.791] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:29.829] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:30:29.833] : 关闭浏览器 conftest.py -> browser line:44[0m
+[32m[INFO] [2025-08-26  12:30:29.996] : 关闭浏览器 conftest.py -> browser line:44[0m

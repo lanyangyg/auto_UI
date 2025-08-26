@@ -1,0 +1,819 @@
+[INFO] [2025-08-25  14:50:57.456] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  14:51:09.752] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:10.069] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:10.093] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:10.218] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:10.249] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:10.367] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:10.367] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:12.386] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:12.400] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  14:51:12.506] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:12.623] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:12.648] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:12.735] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:12.752] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:12.833] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:12.833] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:14.855] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:14.863] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  14:51:14.954] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:15.065] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:15.081] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:15.171] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:15.184] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:15.285] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:15.286] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:17.309] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:17.316] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  14:51:17.317] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  14:51:20.912] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:21.139] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:21.162] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:21.289] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:21.313] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:21.444] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:21.445] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:23.601] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:23.659] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:24.688] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:24.738] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:24.764] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:24.815] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:24.842] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:24.929] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:24.952] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:25.012] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:25.031] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:25.099] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:26.120] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:26.177] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:26.233] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:26.283] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:26.302] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:26.309] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  14:51:26.310] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  14:51:26.472] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  14:51:27.583] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  14:51:30.899] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:31.113] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:31.142] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:31.253] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:31.273] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:31.386] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:31.386] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:33.404] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:33.417] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  14:51:33.518] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:33.605] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:33.630] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:33.703] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  14:51:33.717] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  14:51:33.789] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  14:51:33.789] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  14:51:35.907] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  14:51:39.074] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  14:51:39.189] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:02:18.262] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:02:35.358] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:35.627] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:35.651] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:35.717] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:35.734] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:35.825] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:35.826] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:02:37.857] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:37.871] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:02:37.964] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:38.041] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:38.056] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:38.115] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:38.194] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:38.250] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:38.251] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:02:40.267] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:40.275] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:02:40.351] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:40.427] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:40.441] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:40.510] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:40.526] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:40.668] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:40.668] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:02:42.693] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:42.702] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:02:42.703] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:02:46.791] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:47.101] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:47.126] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:47.232] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:47.254] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:47.370] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:47.370] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:02:49.525] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:49.591] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:50.614] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:50.666] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:50.698] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:50.753] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:50.783] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:50.906] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:50.922] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:50.979] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:50.997] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:51.067] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:02:52.099] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:52.223] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:52.266] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:52.319] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:02:52.342] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:02:52.350] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:02:52.351] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:02:52.539] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:06:50.696] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:06:59.661] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:06:59.852] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:06:59.874] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:06:59.939] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:06:59.955] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:00.036] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:00.037] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:02.210] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:02.278] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:02.290] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:02.355] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:02.368] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:02.419] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:02.419] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:04.441] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:04.452] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:04.525] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:04.593] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:04.606] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:04.667] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:04.680] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:04.731] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:04.731] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:06.749] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:06.756] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:06.825] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:06.892] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:06.905] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:06.963] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:06.975] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:07.038] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:07.039] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:09.059] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:09.066] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:09.068] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:07:13.163] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:13.503] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:13.568] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:13.679] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:13.701] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:13.806] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:13.806] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:15.935] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:15.983] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:17.009] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:17.064] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:17.089] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:17.140] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:17.158] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:17.313] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:17.345] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:17.400] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:17.416] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:17.476] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:18.497] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:18.559] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:18.601] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:18.649] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:18.668] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:18.677] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:18.678] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:07:18.868] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:07:45.809] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:07:50.867] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:51.144] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:51.166] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:51.252] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:51.271] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:51.361] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:51.361] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:53.382] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:53.393] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:53.488] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:53.615] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:53.632] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:53.710] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:53.729] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:53.800] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:53.801] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:55.816] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:55.822] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:55.899] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:56.042] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:56.065] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:56.176] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:07:56.191] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:56.289] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:07:56.290] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:07:58.311] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:07:58.318] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:07:58.319] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:08:01.943] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:02.224] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:08:02.244] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:02.356] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:08:02.379] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:02.497] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:02.497] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:08:04.665] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:04.730] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:05.754] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:05.834] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:05.871] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:05.930] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:05.959] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:06.080] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:08:06.102] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:06.174] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:08:06.196] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:06.276] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:08:07.302] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:07.371] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:07.414] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:07.462] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:08:07.483] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:08:07.492] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:08:07.492] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:08:07.676] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:27:57.228] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:28:01.673] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:01.917] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:01.939] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:02.054] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:02.073] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:02.165] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:02.165] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:28:04.186] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:04.199] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:28:04.304] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:04.412] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:04.450] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:04.566] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:04.584] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:04.693] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:04.694] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:28:06.705] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:06.713] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:28:06.789] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:06.853] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:06.867] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:06.931] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:06.944] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:07.069] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:07.069] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:28:09.090] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:09.097] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:28:09.099] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:28:12.486] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:12.785] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:12.804] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:12.893] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:12.918] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:13.078] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:13.078] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:28:15.243] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:15.296] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:16.315] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:16.366] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:16.394] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:16.447] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:16.474] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:16.581] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:16.601] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:16.658] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:16.677] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:16.738] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:28:17.760] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:17.873] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:17.893] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:17.949] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:28:17.978] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:28:17.987] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:28:17.988] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:28:18.179] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:29:40.521] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:29:43.888] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:44.175] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:44.198] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:44.374] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:44.396] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:44.497] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:44.497] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:29:46.522] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:46.536] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:29:46.656] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:46.747] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:46.770] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:46.936] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:46.960] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:47.069] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:47.070] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:29:49.085] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:49.093] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:29:49.172] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:49.299] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:49.315] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:49.422] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:49.434] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:49.532] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:49.533] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:29:51.547] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:51.555] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:29:51.556] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:29:54.857] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:55.103] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:55.132] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:55.241] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:55.259] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:55.380] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:55.380] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:29:57.537] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:57.587] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:58.610] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:58.662] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:58.690] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:58.743] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:29:58.764] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:58.849] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:58.873] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:58.933] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:29:58.949] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:29:59.015] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:30:00.035] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:30:00.104] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:30:00.150] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:30:00.205] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:30:00.228] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:30:00.236] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:30:00.237] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:30:00.418] : 关闭浏览器 conftest.py -> browser line:42
+[INFO] [2025-08-25  15:40:15.668] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:40:18.705] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:18.924] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:18.945] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:19.025] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:19.048] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:19.124] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:19.124] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:40:21.159] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:21.173] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:40:21.260] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:21.345] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:21.361] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:21.428] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:21.440] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:21.498] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:21.499] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:40:23.529] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:23.539] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:40:23.606] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:23.695] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:23.710] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:23.790] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:23.801] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:23.926] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:23.926] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:40:25.961] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:25.969] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:40:25.971] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:40:30.046] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:30.255] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:30.272] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:30.352] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:30.370] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:30.509] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:30.509] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:40:32.633] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:32.673] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:33.713] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:33.763] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:33.790] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:33.833] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:33.848] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:33.916] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:33.937] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:33.993] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:34.009] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:34.064] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:40:35.095] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:35.159] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:35.201] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:35.244] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:40:35.262] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:40:35.268] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:40:35.269] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:40:35.440] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:49:06.135] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:49:09.849] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:10.133] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:10.160] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:10.266] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:10.290] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:10.381] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:10.382] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:49:12.402] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:12.413] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:49:12.525] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:12.663] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:12.682] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:12.772] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:12.792] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:12.865] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:12.865] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:49:14.881] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:14.890] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:49:14.967] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:15.094] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:15.111] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:15.217] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:15.234] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:15.352] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:15.353] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:49:17.369] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:17.377] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:49:17.383] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:49:21.188] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:21.459] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:21.489] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:21.605] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:21.631] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:21.800] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:21.800] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:49:23.940] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:23.987] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:25.017] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:25.068] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:25.099] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:25.149] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:25.168] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:25.282] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:25.302] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:25.356] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:25.370] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:25.431] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:49:26.450] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:26.515] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:26.566] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:26.615] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:49:26.636] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:49:26.646] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:49:26.648] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:49:26.833] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:53:02.277] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:53:05.699] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:05.927] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:05.957] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:06.072] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:06.100] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:06.169] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:06.170] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:53:08.189] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:08.201] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:53:08.384] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:08.535] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:08.555] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:08.653] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:08.671] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:08.723] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:08.724] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:53:10.736] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:10.743] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:53:10.821] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:10.953] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:10.974] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:11.129] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:11.146] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:11.280] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:11.281] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:53:13.299] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:13.305] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:53:13.309] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:53:16.614] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:16.894] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:16.917] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:17.019] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:17.037] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:17.161] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:17.162] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:53:19.373] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:19.423] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:20.444] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:20.489] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:20.520] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:20.567] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:20.587] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:20.696] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:20.717] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:20.770] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:20.787] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:20.848] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:53:21.919] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:21.982] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:22.028] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:22.075] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:53:22.095] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:53:22.103] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:53:22.105] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:53:22.289] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:54:01.802] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:54:04.886] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:05.109] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:05.136] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:05.236] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:05.259] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:05.349] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:05.349] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:54:07.381] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:07.395] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:54:07.485] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:07.577] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:07.597] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:07.666] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:07.678] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:07.741] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:07.741] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:54:09.767] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:09.777] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:54:09.847] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:09.948] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:09.969] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:10.072] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:10.084] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:10.203] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:10.203] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:54:12.240] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:12.249] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:54:12.253] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:54:15.227] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:15.463] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:15.485] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:15.568] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:15.587] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:15.706] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:15.706] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:54:17.842] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:17.885] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:18.918] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:18.964] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:18.989] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:19.032] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:19.049] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:19.135] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:19.153] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:19.203] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:19.218] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:19.274] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:54:20.302] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:20.375] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:20.392] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:20.433] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:54:20.449] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:54:20.455] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:54:20.456] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:54:20.588] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  15:59:41.216] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:59:44.418] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:44.764] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:44.787] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:44.910] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:44.934] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:45.048] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:45.049] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:59:47.066] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:47.078] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:59:47.200] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:47.338] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:47.360] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:47.448] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:47.465] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:47.541] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:47.542] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:59:49.559] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:49.566] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:59:49.646] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:49.770] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:49.785] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:49.903] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:49.920] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:50.040] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:50.041] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:59:52.057] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:52.064] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  15:59:52.069] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  15:59:55.699] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:55.973] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:56.004] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:56.121] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:56.152] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:56.279] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:56.279] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  15:59:58.443] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:58.502] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:59.524] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:59.573] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:59.601] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:59.650] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  15:59:59.675] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:59.783] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:59.803] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:59.856] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  15:59:59.877] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  15:59:59.940] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:00:00.963] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:00:01.036] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:00:01.078] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:00:01.128] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:00:01.148] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:00:01.156] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  16:00:01.160] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  16:00:01.354] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  16:02:13.287] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  16:02:16.534] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:16.769] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:16.791] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:16.907] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:16.931] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:17.038] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:17.039] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  16:02:19.054] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:19.067] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-25  16:02:19.177] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:19.302] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:19.324] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:19.409] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:19.424] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:19.477] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:19.478] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-25  16:02:21.495] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:21.502] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-25  16:02:21.580] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:21.709] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:21.727] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:21.830] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:21.843] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:21.991] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:21.991] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  16:02:24.010] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:24.017] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-25  16:02:24.021] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  16:02:27.236] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:27.525] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:27.545] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:27.730] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:27.755] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:27.881] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:27.882] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  16:02:30.205] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:30.266] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:31.285] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:31.333] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:31.362] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:31.409] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:31.429] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:31.536] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:31.562] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:31.626] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:31.643] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:31.705] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  16:02:32.725] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:32.794] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:32.837] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:32.884] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  16:02:32.902] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  16:02:32.910] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  16:02:32.912] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  16:02:33.093] : 关闭浏览器 conftest.py -> browser line:51
+[INFO] [2025-08-25  17:54:56.351] : 启动浏览器 conftest.py -> browser line:37
+[INFO] [2025-08-25  17:55:01.430] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:01.721] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  17:55:01.741] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:01.828] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  17:55:01.843] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:01.967] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:01.967] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  17:55:04.113] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:04.203] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:05.238] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:05.284] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:05.309] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:05.352] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:05.371] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:05.453] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  17:55:05.467] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:05.517] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  17:55:05.532] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:05.584] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  17:55:06.619] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:06.707] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:06.722] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:06.766] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  17:55:06.783] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  17:55:06.790] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  17:55:06.794] : 关闭浏览器 conftest.py -> browser line:45
+[INFO] [2025-08-25  18:07:37.861] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  18:07:42.960] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:43.285] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  18:07:43.317] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:43.431] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  18:07:43.451] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:43.604] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:43.604] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  18:07:45.770] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:45.833] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:46.852] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:46.909] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:46.939] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:46.994] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:47.023] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:47.159] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-25  18:07:47.180] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:47.244] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  18:07:47.260] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:47.326] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-25  18:07:48.346] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:48.418] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:48.461] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:48.542] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  18:07:48.565] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  18:07:48.573] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  18:07:48.577] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  22:02:06.629] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  22:02:24.531] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  22:02:42.392] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  22:03:04.077] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:03:04.376] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  22:03:04.400] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:03:04.484] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  22:03:04.501] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:03:04.677] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  22:03:04.678] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  22:03:07.211] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:03:07.305] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  22:04:19.565] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  22:04:39.187] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:04:39.451] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  22:04:39.467] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:04:39.553] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  22:04:39.570] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:04:39.654] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  22:04:39.655] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  22:04:46.205] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  22:04:47.341] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  23:44:01.409] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  23:44:08.673] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:44:09.183] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:44:09.260] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:44:09.395] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:44:09.413] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:44:09.603] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:44:09.604] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  23:44:16.095] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:44:17.195] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  23:48:42.233] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  23:48:53.429] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:48:53.713] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:48:53.736] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:48:53.820] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:48:53.838] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:48:53.948] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:48:53.948] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  23:49:00.423] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:49:01.551] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-25  23:52:06.679] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-25  23:52:14.463] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:14.735] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:52:14.750] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:14.808] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:52:14.827] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:14.973] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:52:14.974] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-25  23:52:21.481] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:21.543] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:21.586] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:52:21.601] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:21.690] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:52:21.703] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:21.748] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:52:21.762] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:21.809] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-25  23:52:22.846] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:22.907] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:52:22.922] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:22.964] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-25  23:52:22.979] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-25  23:52:22.985] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-25  23:52:22.989] : 关闭浏览器 conftest.py -> browser line:44

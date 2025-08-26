@@ -1,0 +1,9 @@
+[32m[INFO] [2025-08-26  12:27:59.846] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:28:00.008] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:28:00.025] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:28:00.137] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:28:00.152] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:28:00.303] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:28:00.303] : 尝试登录: 用户名=standard_user login_page.py -> login line:29[0m
+[32m[INFO] [2025-08-26  12:28:02.322] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:28:02.331] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51[0m

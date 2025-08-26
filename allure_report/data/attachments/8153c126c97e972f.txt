@@ -1,0 +1,19 @@
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('css selector', '.shopping_cart_link')
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('id', 'checkout')
+INFO     auto_ui_logger:base_page.py:40 点击元素：('id', 'checkout')
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('xpath', '//input[@id="first-name"]')
+INFO     auto_ui_logger:base_page.py:46 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('xpath', '//input[@id="last-name"]')
+INFO     auto_ui_logger:base_page.py:46 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('xpath', '//input[@id="postal-code"]')
+INFO     auto_ui_logger:base_page.py:46 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('xpath', '//input[@id="continue"]')
+INFO     auto_ui_logger:base_page.py:40 点击元素：('xpath', '//input[@id="continue"]')
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('id', 'finish')
+INFO     auto_ui_logger:base_page.py:40 点击元素：('id', 'finish')
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('css selector', '.complete-header')
+INFO     auto_ui_logger:base_page.py:51 获取文本：('css selector', '.complete-header')->Thank you for your order!
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('xpath', '//button[@id="back-to-products"]')
+INFO     auto_ui_logger:base_page.py:40 点击元素：('xpath', '//button[@id="back-to-products"]')
+INFO     auto_ui_logger:conftest.py:44 关闭浏览器
+INFO     auto_ui_logger:conftest.py:44 关闭浏览器

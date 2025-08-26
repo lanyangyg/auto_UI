@@ -1,0 +1,9 @@
+[32m[INFO] [2025-08-26  12:27:57.312] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:27:57.479] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:27:57.503] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:27:57.620] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:27:57.638] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:27:57.741] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:27:57.741] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29[0m
+[32m[INFO] [2025-08-26  12:27:59.754] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:27:59.762] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51[0m

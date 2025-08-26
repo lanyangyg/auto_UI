@@ -1,0 +1,596 @@
+[INFO] [2025-08-26  00:03:34.226] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:03:53.754] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:03:54.050] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:03:54.066] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:03:54.150] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:03:54.168] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:03:54.297] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:03:54.297] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:03:56.561] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:06:28.111] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:06:52.861] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:06:53.131] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:06:53.150] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:06:53.232] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:06:53.252] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:06:53.335] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:06:53.335] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:06:55.691] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:09:08.741] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:09:20.887] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:09:21.179] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:09:21.198] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:09:21.284] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:09:21.304] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:09:21.453] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:09:21.454] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:09:23.868] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:13:37.421] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:13:47.301] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:13:47.620] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:13:47.644] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:13:47.769] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:13:47.796] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:13:47.971] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:13:47.972] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:13:50.357] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:19:48.494] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:20:25.724] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:20:25.923] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:20:25.945] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:20:26.011] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:20:26.029] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:20:26.108] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:20:26.108] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:20:28.371] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:25:02.761] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:25:08.333] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:25:08.622] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:25:08.641] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:25:08.728] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:25:08.748] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:25:08.862] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:25:08.862] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:25:11.013] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:27:04.836] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:28:00.032] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:00.311] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:28:00.331] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:00.412] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:28:00.431] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:00.536] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:28:00.536] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:28:04.831] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:04.913] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:04.970] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:28:04.989] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:05.117] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:28:05.135] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:05.195] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:28:05.213] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:05.322] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:28:06.340] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:06.419] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:28:06.462] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:06.515] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:28:06.535] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:28:06.542] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:28:16.600] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:32:52.849] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:32:58.745] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:32:59.064] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:32:59.080] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:32:59.160] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:32:59.181] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:32:59.331] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:32:59.331] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:33:03.636] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:03.716] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:03.768] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:33:03.789] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:03.965] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:33:04.010] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:04.092] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:33:04.109] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:04.188] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:33:05.210] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:05.274] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:33:05.318] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:05.367] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:33:05.385] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:33:05.396] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:33:15.502] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:35:37.191] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:35:41.458] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:41.799] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:41.824] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:41.915] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:41.932] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:42.042] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:42.042] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:35:46.452] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:46.522] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:46.577] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:46.597] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:46.688] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:46.711] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:46.771] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:46.788] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:46.859] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:47.880] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:47.944] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:47.987] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:48.045] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:48.067] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:48.074] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:35:48.090] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:48.143] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:50.607] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:50.670] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:50.724] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:50.739] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:50.838] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:50.857] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:50.927] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:50.941] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:51.000] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:35:52.017] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:52.094] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:52.109] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:52.167] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:52.187] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:52.195] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:35:52.210] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:35:52.258] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:35:52.262] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:41:36.980] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:41:48.536] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:48.977] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:48.996] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:49.099] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:49.120] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:49.253] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:49.253] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:41:53.631] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:53.710] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:53.772] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:53.794] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:53.923] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:53.940] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:54.003] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:54.019] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:54.126] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:55.149] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:55.234] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:55.279] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:55.329] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:55.350] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:55.358] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:41:55.375] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:55.433] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:57.802] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:57.877] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:57.936] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:57.957] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:58.125] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:58.142] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:58.243] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:58.257] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:58.332] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:41:59.346] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:59.427] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:59.443] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:59.492] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:59.514] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:59.522] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:41:59.534] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:41:59.594] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:41:59.597] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  00:57:07.976] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  00:57:18.364] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:18.667] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:18.681] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:18.746] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:18.760] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:18.889] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:18.890] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  00:57:23.182] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:23.245] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:23.290] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:23.307] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:23.387] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:23.403] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:23.452] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:23.467] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:23.539] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:24.566] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:24.622] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:24.660] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:24.704] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:24.721] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:24.727] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:57:24.741] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:24.782] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:27.097] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:27.152] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:27.193] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:27.208] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:27.283] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:27.299] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:27.348] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:27.359] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:27.408] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:28.436] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:28.481] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:28.514] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:28.554] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:28.568] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:28.575] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:57:28.586] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:28.630] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:31.015] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:31.080] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:31.119] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:31.131] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:31.209] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:31.224] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:31.271] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:31.282] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:31.334] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  00:57:32.362] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:32.416] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:32.448] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:32.490] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:32.503] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:32.509] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  00:57:32.518] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  00:57:32.562] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  00:57:32.564] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:10:06.004] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:10:10.932] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:11.267] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:11.283] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:11.377] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:11.399] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:11.578] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:11.579] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:10:16.013] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:16.104] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:16.157] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:16.186] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:16.314] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:16.346] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:16.427] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:16.443] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:16.505] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:17.527] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:17.598] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:17.641] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:17.695] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:17.716] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:17.726] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:10:17.742] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:17.802] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:20.213] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:20.283] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:20.338] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:20.355] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:20.498] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:20.517] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:20.612] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:20.625] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:20.686] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:21.704] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:21.789] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:21.803] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:21.859] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:21.879] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:21.887] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:10:21.900] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:21.950] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:24.406] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:24.486] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:24.542] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:24.564] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:24.683] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:24.702] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:24.775] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:24.787] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:24.857] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:10:25.876] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:25.957] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:25.969] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:26.026] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:26.045] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:26.053] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:10:26.065] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:10:26.111] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:10:26.113] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:13:16.313] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:13:20.117] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:20.463] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:20.489] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:20.616] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:20.635] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:20.771] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:20.771] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:13:25.138] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:25.226] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:25.282] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:25.302] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:25.429] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:25.452] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:25.517] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:25.550] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:25.613] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:26.630] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:26.694] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:26.736] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:26.791] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:26.813] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:26.821] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:13:26.836] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:26.903] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:29.310] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:29.381] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:29.434] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:29.449] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:29.590] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:29.608] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:29.690] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:29.707] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:29.767] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:30.783] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:30.867] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:30.880] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:30.934] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:30.953] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:30.960] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:13:30.976] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:31.034] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:33.483] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:33.563] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:33.623] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:33.645] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:33.758] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:33.775] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:33.848] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:33.869] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:33.934] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:13:34.949] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:35.039] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:35.055] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:35.108] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:35.131] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:35.139] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:13:35.154] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:13:35.209] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:13:35.211] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:27:49.387] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:27:54.418] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:54.802] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:27:54.828] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:54.941] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:27:54.961] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:55.091] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:27:55.092] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:27:57.166] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:57.183] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:27:57.312] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:57.479] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:27:57.503] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:57.620] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:27:57.638] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:57.741] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:27:57.741] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:27:59.754] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:27:59.762] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:27:59.846] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:00.008] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:00.025] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:00.137] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:00.152] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:00.303] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:00.303] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:28:02.322] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:02.331] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:28:02.335] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:28:05.951] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:06.284] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:06.305] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:06.412] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:06.434] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:06.569] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:06.570] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:28:08.738] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:08.790] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:09.809] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:09.870] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:09.904] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:09.957] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:10.037] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:10.176] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:10.195] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:10.268] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:10.294] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:10.374] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:11.394] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:11.475] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:11.517] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:11.576] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:11.596] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:11.606] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:28:11.738] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:11.904] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:11.922] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:12.634] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:12.645] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:12.772] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:12.773] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:28:17.060] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:17.152] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:17.213] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:17.229] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:17.350] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:17.368] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:17.432] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:17.444] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:17.516] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:18.532] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:18.591] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:18.632] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:18.683] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:18.703] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:18.712] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:28:18.730] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:18.788] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:21.178] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:21.247] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:21.299] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:21.316] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:21.442] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:21.457] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:21.538] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:21.554] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:21.617] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:22.636] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:22.708] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:22.763] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:22.868] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:22.892] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:22.904] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:28:22.923] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:23.023] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:25.518] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:25.600] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:25.660] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:25.677] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:25.824] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:25.842] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:25.911] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:25.929] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:25.990] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:28:27.006] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:27.067] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:27.118] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:27.177] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:27.192] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:27.201] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:28:27.212] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:28:27.265] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:28:27.272] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:28:27.463] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:29:56.290] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:29:59.854] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:00.132] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:00.154] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:00.244] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:00.259] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:00.345] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:00.345] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:30:02.373] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:02.386] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:02.476] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:02.569] : 在元素：('id', 'user-name')中输入文本locked_out_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:02.584] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:02.650] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:02.661] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:02.723] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:02.723] : 尝试登录: 用户名=locked_out_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:30:04.748] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:04.757] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Sorry, this user has been locked out. base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:04.832] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:04.932] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:04.947] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:05.039] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:05.048] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:05.139] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:05.139] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:30:07.174] : 元素定位成功：('class name', 'app_logo') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:07.181] : 获取文本：('class name', 'app_logo')->Swag Labs base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:07.185] : 启动浏览器 conftest.py -> browser line:36
+[INFO] [2025-08-26  12:30:10.404] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:10.655] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:10.675] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:10.754] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:10.776] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:10.875] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:10.875] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:30:13.006] : 元素定位成功：('id', 'add-to-cart') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:13.057] : 点击元素：('id', 'add-to-cart') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:14.087] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:14.131] : 点击元素：('css selector', '.shopping_cart_link') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:14.156] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:14.199] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:14.215] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:14.300] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:14.321] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:14.371] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:14.387] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:14.440] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本123456 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:15.474] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:15.532] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:15.566] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:15.606] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:15.622] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:15.628] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:15.721] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:15.825] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:15.842] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:15.930] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:15.942] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:16.019] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:16.020] : 尝试登录: 用户名=standard_user login_page.py -> login line:29
+[INFO] [2025-08-26  12:30:20.280] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:20.370] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:20.422] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:20.440] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:20.569] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:20.590] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:20.675] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:20.690] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:20.769] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:21.783] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:21.865] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:21.884] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:21.931] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:21.945] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:21.953] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:21.968] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:22.027] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:24.349] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:24.406] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:24.444] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:24.459] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:24.545] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:24.559] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:24.608] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:24.619] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:24.673] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:25.701] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:25.773] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:25.784] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:25.823] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:25.836] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:25.842] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:25.852] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:25.900] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:28.269] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:28.329] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:28.367] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:28.383] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:28.468] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:28.481] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:28.531] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:28.544] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:28.600] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46
+[INFO] [2025-08-26  12:30:29.629] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:29.704] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:29.718] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:29.759] : 点击元素：('id', 'finish') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:29.775] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:29.781] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51
+[INFO] [2025-08-26  12:30:29.791] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31
+[INFO] [2025-08-26  12:30:29.829] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40
+[INFO] [2025-08-26  12:30:29.833] : 关闭浏览器 conftest.py -> browser line:44
+[INFO] [2025-08-26  12:30:29.996] : 关闭浏览器 conftest.py -> browser line:44

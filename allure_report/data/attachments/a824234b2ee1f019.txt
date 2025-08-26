@@ -1,0 +1,10 @@
+[32m[INFO] [2025-08-26  12:29:56.290] : 启动浏览器 conftest.py -> browser line:36[0m
+[32m[INFO] [2025-08-26  12:29:59.854] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:00.132] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:30:00.154] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:00.244] : 在元素：('id', 'password')中输入文本wrong_password base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-26  12:30:00.259] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:00.345] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-26  12:30:00.345] : 尝试登录: 用户名=standard_user login_page.py -> login line:29[0m
+[32m[INFO] [2025-08-26  12:30:02.373] : 元素定位成功：('css selector', "[data-test='error']") base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-26  12:30:02.386] : 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service base_page.py -> get_text line:51[0m

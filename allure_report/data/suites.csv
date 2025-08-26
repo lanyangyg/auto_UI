@@ -1,0 +1,26 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+登录功能测试
+:param username: 用户名
+:param password: 密码
+:param expected: 预期结果
+:param browser: 浏览器驱动实例
+","2420","test_login[standard_user-secret_sauce-expected2]","test_cases","Tue Aug 26 12:30:04 CST 2025","passed","Tue Aug 26 12:30:07 CST 2025","TestLogin","test_login_flow","",""
+"","2740","test_complete_order_flow","test_cases","Tue Aug 26 12:30:12 CST 2025","passed","Tue Aug 26 12:30:15 CST 2025","TestOrder","test_order_flow","",""
+"
+登录功能测试
+:param username: 用户名
+:param password: 密码
+:param expected: 预期结果
+:param browser: 浏览器驱动实例
+","2367","test_login[locked_out_user-secret_sauce-expected1]","test_cases","Tue Aug 26 12:30:02 CST 2025","passed","Tue Aug 26 12:30:04 CST 2025","TestLogin","test_login_flow","",""
+"","3866","test_home_to_check[add_list1-remove_list1]","test_cases","Tue Aug 26 12:30:22 CST 2025","passed","Tue Aug 26 12:30:25 CST 2025","TestHomeToCheckout","test_from_home_to_checkout_flow","",""
+"
+登录功能测试
+:param username: 用户名
+:param password: 密码
+:param expected: 预期结果
+:param browser: 浏览器驱动实例
+","3743","test_login[standard_user-wrong_password-expected0]","test_cases","Tue Aug 26 12:29:58 CST 2025","passed","Tue Aug 26 12:30:02 CST 2025","TestLogin","test_login_flow","",""
+"","3993","test_home_to_check[add_list0-remove_list0]","test_cases","Tue Aug 26 12:30:18 CST 2025","passed","Tue Aug 26 12:30:22 CST 2025","TestHomeToCheckout","test_from_home_to_checkout_flow","",""
+"","3923","test_home_to_check[add_list2-remove_list2]","test_cases","Tue Aug 26 12:30:25 CST 2025","passed","Tue Aug 26 12:30:29 CST 2025","TestHomeToCheckout","test_from_home_to_checkout_flow","",""

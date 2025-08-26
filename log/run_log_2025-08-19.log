@@ -1,0 +1,9 @@
+[INFO] [2025-08-19  19:22:06.942] : info logger.py -> <module> line:76
+[WARNING] [2025-08-19  19:22:06.943] : warning logger.py -> <module> line:77
+[ERROR] [2025-08-19  19:22:06.943] : error logger.py -> <module> line:78
+[CRITICAL] [2025-08-19  19:22:06.943] : critical logger.py -> <module> line:79
+[INFO] [2025-08-19  19:29:23.669] : 打开浏览器 conftest.py -> login line:15
+[INFO] [2025-08-19  19:29:33.173] : 关闭浏览器 conftest.py -> login line:25
+[INFO] [2025-08-19  19:32:15.168] : 初始化浏览器 conftest.py -> login line:15
+[INFO] [2025-08-19  19:32:18.315] : 打开url conftest.py -> login line:18
+[INFO] [2025-08-19  19:32:28.177] : 关闭浏览器 conftest.py -> login line:26
