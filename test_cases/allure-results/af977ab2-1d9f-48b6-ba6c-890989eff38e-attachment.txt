@@ -1,0 +1,9 @@
+[32m[INFO] [2025-08-27  13:38:37.732] : 元素定位成功：('id', 'user-name') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  13:38:37.962] : 在元素：('id', 'user-name')中输入文本standard_user base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-27  13:38:37.978] : 元素定位成功：('id', 'password') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  13:38:38.052] : 在元素：('id', 'password')中输入文本secret_sauce base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-27  13:38:38.068] : 元素定位成功：('id', 'login-button') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  13:38:38.140] : 点击元素：('id', 'login-button') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-27  13:38:38.142] : 尝试登录: 用户名=standard_user login_page.py -> login line:29[0m
+[31m[ERROR] [2025-08-27  13:38:50.266] : 元素查找超时：('id', 'add-to-cart') base_page.py -> find_element line:34[0m
+[32m[INFO] [2025-08-27  13:38:50.319] : 关闭浏览器 conftest.py -> browser line:61[0m

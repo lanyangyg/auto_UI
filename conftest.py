@@ -29,20 +29,39 @@ import pytest
 from selenium import webdriver
 from common.log import log
 from pages.login_page import LoginPage
+import os
+from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture(scope="session")
 def browser():      #初始化/使用/销毁浏览器
-    """初始化浏览器驱动"""
-    log.info("启动浏览器")
+    # """初始化浏览器驱动"""
+    # log.info("启动浏览器")
+    # driver = webdriver.Chrome()
+    # driver.maximize_window()
+    # driver.implicitly_wait(10)
+    # yield driver
+    # # 测试结束后关闭浏览器
+    # log.info("关闭浏览器")
+    # driver.quit()
 
-    driver = webdriver.Chrome()
+    chrome_options = Options()
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--no-sandbox")
+    # 开启无痕模式
+    chrome_options.add_argument("incognito")
+
+    if os.getenv("CI") == "true":
+        chrome_options.add_argument("--headless")
+    else:
+        chrome_options.add_argument("--start-maximized")
+
+    driver = webdriver.Chrome(options=chrome_options)
 
     driver.maximize_window()
     driver.implicitly_wait(10)
     yield driver
-    # 测试结束后关闭浏览器
-    log.info("关闭浏览器")
     driver.quit()
+
 
 @pytest.fixture(scope="session")
 def logged_in_success_browser(browser):

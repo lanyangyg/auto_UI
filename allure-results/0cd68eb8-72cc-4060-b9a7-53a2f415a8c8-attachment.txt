@@ -1,0 +1,9 @@
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('id', 'user-name')
+INFO     auto_ui_logger:base_page.py:46 在元素：('id', 'user-name')中输入文本standard_user
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('id', 'password')
+INFO     auto_ui_logger:base_page.py:46 在元素：('id', 'password')中输入文本wrong_password
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('id', 'login-button')
+INFO     auto_ui_logger:base_page.py:40 点击元素：('id', 'login-button')
+INFO     auto_ui_logger:login_page.py:29 尝试登录: 用户名=standard_user
+INFO     auto_ui_logger:base_page.py:31 元素定位成功：('css selector', "[data-test='error']")
+INFO     auto_ui_logger:base_page.py:51 获取文本：('css selector', "[data-test='error']")->Epic sadface: Username and password do not match any user in this service
