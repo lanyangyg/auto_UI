@@ -1,0 +1,17 @@
+[32m[INFO] [2025-08-27  12:04:55.551] : 元素定位成功：('css selector', '.shopping_cart_link') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:55.623] : 元素定位成功：('id', 'checkout') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:55.670] : 点击元素：('id', 'checkout') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-27  12:04:55.692] : 元素定位成功：('xpath', '//input[@id="first-name"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:55.798] : 在元素：('xpath', '//input[@id="first-name"]')中输入文本test02 base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-27  12:04:55.818] : 元素定位成功：('xpath', '//input[@id="last-name"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:55.886] : 在元素：('xpath', '//input[@id="last-name"]')中输入文本ui base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-27  12:04:55.901] : 元素定位成功：('xpath', '//input[@id="postal-code"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:55.970] : 在元素：('xpath', '//input[@id="postal-code"]')中输入文本1234 base_page.py -> input_text line:46[0m
+[32m[INFO] [2025-08-27  12:04:56.988] : 元素定位成功：('xpath', '//input[@id="continue"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:57.067] : 点击元素：('xpath', '//input[@id="continue"]') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-27  12:04:57.080] : 元素定位成功：('id', 'finish') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:57.136] : 点击元素：('id', 'finish') base_page.py -> click_element line:40[0m
+[32m[INFO] [2025-08-27  12:04:57.148] : 元素定位成功：('css selector', '.complete-header') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:57.158] : 获取文本：('css selector', '.complete-header')->Thank you for your order! base_page.py -> get_text line:51[0m
+[32m[INFO] [2025-08-27  12:04:57.169] : 元素定位成功：('xpath', '//button[@id="back-to-products"]') base_page.py -> find_element line:31[0m
+[32m[INFO] [2025-08-27  12:04:57.218] : 点击元素：('xpath', '//button[@id="back-to-products"]') base_page.py -> click_element line:40[0m
